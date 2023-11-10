@@ -21,6 +21,3 @@ def primes(number_of_primes):
         num += 1
 
     return list
-
-inputs = int(input("Enter number of primes to get here:"))
-print(primes(inputs))
